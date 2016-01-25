@@ -21,7 +21,7 @@ public class ProjectileSpawner : MonoBehaviour
         projectiles[0] = square;
 
         //spawn time init
-        spawnTime = 5.0f;
+        spawnTime = 2.0f;
         spawnTimeCounter = 0.0f;
 	}
 	
